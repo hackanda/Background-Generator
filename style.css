@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, red, yellow);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+}
